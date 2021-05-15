@@ -2,11 +2,17 @@
 <<<<<<< HEAD
 public void thisIsANewMethod() {
 String y = "This Member1"; 
+System.out.println(x);
+
 //line 1
+//line 2
 =======
 public void thisIsANewMethod() { 
+=======
+>>>>>>> bugfix
 System.out.println(x);
-//line 2
+String y = "This Member1"; 
+
 >>>>>>> bac2fd5dc33bb0e71856d08ac3c2ddaa429bea25
 }
 =======

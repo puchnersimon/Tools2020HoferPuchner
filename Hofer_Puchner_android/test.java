@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 public void thisIsANewMethod() {
 String y = "This Member1"; 
+//line 1
 =======
 public void thisIsANewMethod() { 
 System.out.println(x);

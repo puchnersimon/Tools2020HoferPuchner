@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 public void thisIsANewMethod() {
 String y = "This Member1"; 
+=======
+public void thisIsANewMethod() { 
+System.out.println(x);
+>>>>>>> bac2fd5dc33bb0e71856d08ac3c2ddaa429bea25
 }
 =======
 String x = "This is a Test";

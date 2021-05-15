@@ -6,6 +6,7 @@ String y = "This Member1";
 =======
 public void thisIsANewMethod() { 
 System.out.println(x);
+//line 2
 >>>>>>> bac2fd5dc33bb0e71856d08ac3c2ddaa429bea25
 }
 =======
